@@ -1,1 +1,0 @@
-Page moved [here](https://github.com/sinara-hw/Kasli-backplane-adapter/wiki).
